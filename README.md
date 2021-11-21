@@ -1,6 +1,9 @@
 # NGP-Bitmap-2-File
 Bitmap to Neo Geo Pocket convert a tiled image to compatible Neo Geo Pocket .c file.
 
+### Requisites
+Microsoft .Net Framework 4.7.2 or higher
+
 **Usage**: bitmap2ngp.exe [OPTIONS] FILEPATH PLANE RGBCOLOR1 [RGBCOLOR2] [RGBCOLOR3]
 
 **Examples**:
