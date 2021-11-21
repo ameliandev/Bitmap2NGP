@@ -1,4 +1,4 @@
-# NGP-Bitmap-2-File
+# Bitmap2NGP
 Bitmap to Neo Geo Pocket convert a tiled image to compatible Neo Geo Pocket .c file.
 
 ### Minimum requisites
